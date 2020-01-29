@@ -4,12 +4,6 @@
 
 ### Reactjs ✅
 
-### useState ✅ 
+### custom hooks ✅
 
-### useEffect ✅
-
-### useCallback  ✅
-
-### custom hooks✅
-
-a Tetris game with React Hooks 
+A Tetris game with React Hooks 
