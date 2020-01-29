@@ -5,6 +5,7 @@ const App = () => (
   <div className="app">
     <Tetris />
   </div>
+
 );
 
 export default App;

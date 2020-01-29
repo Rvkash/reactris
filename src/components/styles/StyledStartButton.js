@@ -15,3 +15,4 @@ export const StyledStartButton = styled.button`
   outline: none;
   cursor: pointer;
 `;
+
