@@ -14,4 +14,4 @@
 
 # https://reactris-game.herokuapp.com/
 
-Made by Rukash 🎲 [Linkedin](https://www.linkedin.com/in/rafael-linhares-js/)
+Made by Rafael Linhares 👉 [Linkedin](https://www.linkedin.com/in/rafael-linhares-js/)
