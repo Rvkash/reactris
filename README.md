@@ -1,6 +1,8 @@
-![Image tetris](https://vice-images.vice.com/images/articles/meta/2016/05/18/tetris-the-movie-vgtrn-1463572363.png?resize=*:*&output-quality=75) width="200px"/>
+<h1 align="center">
+    <img alt="Tetris" src="https://vice-images.vice.com/images/articles/meta/2016/05/18/tetris-the-movie-vgtrn-1463572363.png?resize=*:*&output-quality=75" width="400px" />
+</h1>
 
-###  A app like tetris the game  🎮🎮🎮🎮
+<h1 align="center"> Tetris the game - V1  🎮 </h1>
 
 ### Reactjs ✅
 
