@@ -10,8 +10,8 @@
 
 ### Open source ✅
 
-# Play the game 
-
-# https://reactris-game.herokuapp.com/
+### Play the game 
+ https://reactris-game.herokuapp.com/
+ ------------------------------------
 
 Made by Rafael Linhares 👉 [Linkedin](https://www.linkedin.com/in/rafael-linhares-js/)
