@@ -4,7 +4,7 @@
 
 <h1 align="center"> Tetris the game - V1  🎮 </h1>
 
-### :🎮: Features
+### 🎮 Features
 
 ### Reactjs ✅
 
