@@ -4,6 +4,8 @@
 
 <h1 align="center"> Tetris the game - V1  🎮 </h1>
 
+### :🎮: Features
+
 ### Reactjs ✅
 
 ### Hooks ✅
@@ -13,6 +15,7 @@
 ### Open source ✅
 
 ### Play the game 
+
  https://reactris-game.herokuapp.com/
  ------------------------------------
 
