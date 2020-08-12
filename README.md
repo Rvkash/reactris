@@ -12,8 +12,6 @@
 
 ### Custom hooks ✅
 
-### Open source ✅
-
 ### Play the game 
 
  https://reactris-game.herokuapp.com/
